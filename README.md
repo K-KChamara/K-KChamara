@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=K-KChamara&show_icons=true&theme=dark)
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=K-KChamara&theme=darkhub)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-KChamara&layout=compact&theme=dark)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kasun-chamara-792868294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
