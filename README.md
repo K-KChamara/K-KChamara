@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📈 Github Statics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=K-KChamara&show_icons=true&theme=dark)
+## 📈 Github Statistics
+![Your GitHub stat](https://github-readme-stats.vercel.app/api?username=K-KChamara&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-KChamara&layout=compact&theme=dark)
 
 ## 🏆 GitHub Achievements
