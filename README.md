@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈 Github Statics
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=K-KChamara&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-KChamara&layout=compact&theme=dark)
+
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-KChamara&theme=darkhub&no-frame=true&margin-w=5)
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kasun-chamara-792868294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/share/18xgdHsbMY/?mibextid=qi2Omg))
